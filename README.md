@@ -31,6 +31,7 @@ cd pentbox
 
 Here we have a compressed file named pentbox.tar.xz and to extract itwe apply following command:
 tar -xzvf pentbox.tar.gz
+
 ![2](https://user-images.githubusercontent.com/82643868/220169193-18bf606c-ce76-45db-92d6-2ce26dc287c2.png)
 
 
